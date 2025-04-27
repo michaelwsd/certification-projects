@@ -1,7 +1,7 @@
 # FCC-Projects
 
 1. [Responsive Web Design](https://www.freecodecamp.org/certification/michaelwsd/responsive-web-design)
-2. [JavaScript Algorithms and Data Structures]()
+2. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/michaelwsd/javascript-algorithms-and-data-structures-v8)
 3. [Front End Development Libraries]()
 4. [Data Visualization]()
 5. [Relational Database]()
