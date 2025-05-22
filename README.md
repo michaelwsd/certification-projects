@@ -6,3 +6,4 @@
 4. [Front End Development Libraries](https://www.freecodecamp.org/certification/michaelwsd/front-end-development-libraries)
 5. [Relational Database](https://www.freecodecamp.org/certification/michaelwsd/relational-database-v8)
 6. [Back End Development and APIs](https://www.freecodecamp.org/certification/michaelwsd/back-end-development-and-apis)
+7. [Quality Assurance](https://www.freecodecamp.org/certification/michaelwsd/quality-assurance-v7)
