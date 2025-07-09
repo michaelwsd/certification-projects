@@ -7,7 +7,7 @@ def calculate(list):
     
     arr = np.array(list).reshape(3, 3)
     calculations = {
-        # exis 0 -> mean of each column
+        # axis 0 -> mean of each column
         'mean': [arr.mean(axis=0).tolist(), arr.mean(axis=1).tolist(), arr.mean().item()],
         'variance': [arr.var(axis=0).tolist(), arr.var(axis=1).tolist(), arr.var().item()],
         'standard deviation': [arr.std(axis=0).tolist(), arr.std(axis=1).tolist(), arr.std().item()],
