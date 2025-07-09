@@ -8,3 +8,4 @@
 6. [Back End Development and APIs](https://www.freecodecamp.org/certification/michaelwsd/back-end-development-and-apis)
 7. [Quality Assurance](https://www.freecodecamp.org/certification/michaelwsd/quality-assurance-v7)
 8. [Spring Boot 3 & Spring Framework 6](https://www.udemy.com/certificate/UC-8a04570b-757c-49af-8f7a-8ec652eb0079/)
+9. [Data Analysis with Python](https://www.freecodecamp.org/certification/michaelwsd/data-analysis-with-python-v7)
